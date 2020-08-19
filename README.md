@@ -1,2 +1,2 @@
-# shitty-code-i-wrote
-Shitty Code I Wrote
+# Shitty Code I Wrote
+## Documentation: Like that is ever gonna happen.
